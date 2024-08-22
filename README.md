@@ -36,7 +36,7 @@ Hi I'm Pushpadand My Excel Project on Sales Analysis of AtliQ Hardware
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Pushpadant07/Sales-Analysis-Using-Excel/blob/9bc557a538908f7d3b5532ddecf8670931edd48b/P%26L%20Statement%20by%20Markets.pdf)_
 
-### Technical & Soft Skills:
+### Technical Skills:
 
 1.	Proficiency in ETL methodology (Extract, Transform, Load).
 2.	Skills to generate a date table using Power Query.
