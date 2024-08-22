@@ -15,7 +15,7 @@ Hi I'm Pushpadand My Excel Project on Sales Analysis of AtliQ Hardware
 
     **1.** Create a _[Customer Performance Report](https://github.com/Pushpadant07/Sales-Analysis-Using-Excel/blob/eedcd4105de972486adc110af58ba6c07e7f5587/Customer%20Performance%20Report.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[Market Performance vs Target Report](https://github.com/userattachments/files/16638905/Market.Performance.vs.Target.Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[Market Performance vs Target Report](https://github.com/Pushpadant07/Sales-Analysis-Using-Excel/blob/e46dee4dba4830f12013c7c32476df21a9baaf16/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 
 
@@ -32,7 +32,7 @@ Hi I'm Pushpadand My Excel Project on Sales Analysis of AtliQ Hardware
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/user-attachments/files/16638915/P.L.Statement.by.Fiscal.Year.pdf) & _[Months](https://github.com/user-attachments/files/16638949/P.L.Statement.by.Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Pushpadant07/Sales-Analysis-Using-Excel/blob/e46dee4dba4830f12013c7c32476df21a9baaf16/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/user-attachments/files/16638949/P.L.Statement.by.Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/user-attachments/files/16638931/P.L.Statement.by.Markets.pdf)_
 
