@@ -13,7 +13,7 @@ Hi I'm Pushpadand My Excel Project on Sales Analysis of AtliQ Hardware
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer Performance Report]([Customer Performance Report.pdf](https://github.com/Pushpadant07/Sales-Analysis-Using-Excel/blob/eedcd4105de972486adc110af58ba6c07e7f5587/Customer%20Performance%20Report.pdf))_
+    **1.** Create a _[Customer Performance Report](https://github.com/Pushpadant07/Sales-Analysis-Using-Excel/blob/eedcd4105de972486adc110af58ba6c07e7f5587/Customer%20Performance%20Report.pdf)_
 
     **2.** Conduct a comprehensive comparison between _[Market Performance vs Target Report](https://github.com/userattachments/files/16638905/Market.Performance.vs.Target.Report.pdf)_
 
